@@ -1,0 +1,10 @@
+es/etg/dam/acceso/InstitutoDAO.class
+es/etg/dam/acceso/Alumno.class
+es/etg/dam/acceso/InstitutoDAOFactory.class
+es/etg/dam/acceso/InstitutoOracleXeDAOImp.class
+es/etg/dam/acceso/Modo.class
+es/etg/dam/acceso/InstitutoHibernateDAOImp.class
+es/etg/dam/acceso/Main.class
+es/etg/dam/acceso/Curso.class
+es/etg/dam/acceso/InstitutoMockDAOImp.class
+es/etg/dam/acceso/InstitutoSQLiteDAOImp.class

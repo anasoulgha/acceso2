@@ -1,0 +1,10 @@
+/home/debian/Desktop/acceso2/src/main/java/es/etg/dam/acceso/Main.java
+/home/debian/Desktop/acceso2/src/main/java/es/etg/dam/acceso/InstitutoSQLiteDAOImp.java
+/home/debian/Desktop/acceso2/src/main/java/es/etg/dam/acceso/InstitutoOracleXeDAOImp.java
+/home/debian/Desktop/acceso2/src/main/java/es/etg/dam/acceso/InstitutoHibernateDAOImp.java
+/home/debian/Desktop/acceso2/src/main/java/es/etg/dam/acceso/Curso.java
+/home/debian/Desktop/acceso2/src/main/java/es/etg/dam/acceso/InstitutoDAOFactory.java
+/home/debian/Desktop/acceso2/src/main/java/es/etg/dam/acceso/InstitutoDAO.java
+/home/debian/Desktop/acceso2/src/main/java/es/etg/dam/acceso/Alumno.java
+/home/debian/Desktop/acceso2/src/main/java/es/etg/dam/acceso/InstitutoMockDAOImp.java
+/home/debian/Desktop/acceso2/src/main/java/es/etg/dam/acceso/Modo.java
